@@ -1,4 +1,4 @@
-package com.bhuvan.stocks.stocks;
+package com.bhuvan.stocks;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
